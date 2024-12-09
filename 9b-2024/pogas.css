@@ -1,0 +1,31 @@
+a:link{
+    background-color: #FFFDD0;
+    font-size: 1.2em;
+}
+a:hover{
+    color: blue;
+    font-size: 1.4em;
+    cursor: pointer;
+}
+a:active{
+	font-size: 1.2em;
+}
+a:visited{
+	background-color: #FFF;
+}
+
+.btn{
+    background-color: #4CAF50;
+    border: none;
+    padding: 40px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+
+}
+.btn:hover{
+    background-color: red;
+
+}
